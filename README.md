@@ -9,4 +9,4 @@ For more information about `pacmannrd` see: https://aur.archlinux.org/packages/p
 
 # Credits 
 
-Credit should go, where the credit is due. This script is a fork of `pacmannrd` written with ❤  by @rcpoison 
+Credit should go, where the credit is due. This script is a fork of `pacmannrd` written with ❤ by [rcpoison](https://github.com/rcpoison)
